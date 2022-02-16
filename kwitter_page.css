@@ -1,0 +1,14 @@
+#name {
+    font-style:oblique;
+}
+
+body {
+    background-image: url("seher.jpeg");
+    align-items: center;
+    color: aliceblue;
+}
+
+#room_name {
+    width: 420px;
+}
+

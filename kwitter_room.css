@@ -1,0 +1,14 @@
+ body 
+ {
+     background-image: url("flowers.jpeg");
+     color: rgb(94, 67, 0);
+ }
+
+#msg {
+    width: 500px;
+}
+
+img {
+    width: 50px;
+    height: 40px;
+}
